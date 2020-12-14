@@ -1,5 +1,5 @@
 'use strict';
-test
+test-abc
 module.exports = (sequelize, DataTypes) => {
   const Like = sequelize.define('Like', {
   }, {});
