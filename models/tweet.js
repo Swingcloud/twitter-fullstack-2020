@@ -4,5 +4,5 @@ module.exports = (sequelize, DataTypes) => {
   }, {});
   Tweet.associate = function(models) {
   };
-  return Tweet;
+  return Tweet123;
 };
